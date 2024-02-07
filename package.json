@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react24",
+  "version": "1.0.0",
+  "description": "This is namaste react course folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu08Tiwari/NamasteReactJS24.git"
+  },
+  "author": "Himanshu08Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himanshu08Tiwari/NamasteReactJS24/issues"
+  },
+  "homepage": "https://github.com/Himanshu08Tiwari/NamasteReactJS24#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
